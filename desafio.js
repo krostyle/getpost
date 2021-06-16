@@ -1,4 +1,4 @@
-const URL = 'https://jsonplaceholder.typicode.com/postsas'
+const URL = 'https://jsonplaceholder.typicode.com/posts'
 const postData = document.getElementById('post-data')
 const request = async() => {
     try {
